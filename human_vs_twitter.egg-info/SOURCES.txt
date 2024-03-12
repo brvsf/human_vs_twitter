@@ -1,0 +1,8 @@
+README.md
+setup.py
+human_vs_twitter.egg-info/PKG-INFO
+human_vs_twitter.egg-info/SOURCES.txt
+human_vs_twitter.egg-info/dependency_links.txt
+human_vs_twitter.egg-info/not-zip-safe
+human_vs_twitter.egg-info/requires.txt
+human_vs_twitter.egg-info/top_level.txt
